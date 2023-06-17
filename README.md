@@ -1,11 +1,11 @@
-About r-validata
-================
+About r-validata-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-validata-feedstock/blob/main/LICENSE.txt)
 
 Home: https://harrison4192.github.io/validata/, https://github.com/Harrison4192/validata
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-validata-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions for validating the structure and properties of data frames. Answers essential questions about a data set after initial import or modification. What are the unique or missing values? What columns form a primary key? What are the properties of the numeric or categorical columns? What kind of overlap or mapping exists between 2 columns?
 
